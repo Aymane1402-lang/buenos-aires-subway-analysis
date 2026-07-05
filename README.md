@@ -3,7 +3,7 @@
 Analysis of passenger traffic in the Buenos Aires subway system using Python, Pandas and Matplotlib.
 
 ## Map 🗺️
-![Buenos Aires Subway Map](subway_map.png)
+![Buenos Aires Subway Map](subway.png)
 
 ## Overview
 This project analyzes passenger traffic data from the Buenos Aires subway system for the month of March 2024. The goal is to identify the busiest stations and peak hours to help transportation planners allocate train cars and crowd-control resources more efficiently.
